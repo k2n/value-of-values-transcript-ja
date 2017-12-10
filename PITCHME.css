@@ -1,0 +1,18 @@
+element.style {
+  width: 1100px;
+}
+
+section.present {
+  width: 1200px;
+}
+
+.reveal .slides {
+  width: 1000px;
+  font-size: 36px;
+}
+
+.reval .slides section>* {
+  mergin-left:  20;
+  margin-right: 20;
+  margin-bottom: 20;
+}
